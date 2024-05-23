@@ -7,14 +7,15 @@
   정면<br/>
 </div>
 
-![정면](https://github.com/qkralstjd9917/3TB/assets/148943234/a369b7a0-b92b-4bb3-9fef-9bfb656ef937)<br/><br/><br/>
+![도면-정면](https://github.com/qkralstjd9917/3TB/assets/148943234/1fe3232c-c676-4b10-80af-bb6fc9d0b7b4)
+
 <div align="center">
   윗면<br/>
 </div>
 
-![윗면](https://github.com/qkralstjd9917/3TB/assets/148943234/214d9879-2e83-461f-98f7-81db87880909)<br/><br/><br/>
+![도면-윗면](https://github.com/qkralstjd9917/3TB/assets/148943234/759d8aec-f8f0-4365-b477-761930a830d1)
 <div align="center">
  옆면<br/>
 </div>
 
-![옆면](https://github.com/qkralstjd9917/3TB/assets/148943234/07c18e68-ad40-4609-adee-69419a310151)
+![도면-옆면](https://github.com/qkralstjd9917/3TB/assets/148943234/a0e084c3-50e9-4677-ae8f-1ee8600d77e2)
